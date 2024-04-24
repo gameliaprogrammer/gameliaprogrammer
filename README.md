@@ -1,4 +1,6 @@
 ### Hi there 👋
+            Junior Frontend developer is interested in building smooth and responsive user interfaces.
+                 Always ready to learn new technologies and push myself to get better every day.
 
 <!--
 **gameliaprogrammer/gameliaprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
