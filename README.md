@@ -130,20 +130,8 @@ I am a passionate Frontend Developer with a strong foundation in both frontend t
 <details>
   <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
-  ### Leetcode
-  <div align="center">
- 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/binarysolver?theme=auto&font=baloo&extension=null)
- 
-  </div>
 
 
-  ### Codeforces
-  <div align="center">
- 
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=binarysolver)
- 
-  </div>
   
   ### GitHub
   <div align="center">
@@ -163,7 +151,7 @@ I am a passionate Frontend Developer with a strong foundation in both frontend t
   <a https://github.com/gameliaprogrammer">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
   </a>
-  <a href="https://linkedin.com/in/parthjohri07">
+  <a href="https://linkedin.com/in/jamila-developer">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.quora.com/profile/Parth-Johri-6">
@@ -187,25 +175,6 @@ I am a passionate Frontend Developer with a strong foundation in both frontend t
 <!--Start Count Merged PRs-->
   <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
-
-<!--Start Merged PRs-->
-1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-2. 🎉 Merged PR [11](https://github.com/monacodelisa/LGBTQ-definitions/pull/11) - [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-3. 🎊 Merged PR [876](https://github.com/glasskube/glasskube/pull/876) - [glasskube/glasskube](https://github.com/glasskube/glasskube)
-4. 🥂 Merged PR [7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7) - [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-5. 🙌🏼 Merged PR [5](https://github.com/monacodelisa/LGBTQ-definitions/pull/5) - [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-<!--Finish Merged PRs-->
-
-### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198477998) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-2. 🔒 Closed issue [#1](https://github.com/ParthJohri/voiceToText/issues/1) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-3. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198477927) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-4. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198458380) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-5. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
-<!--END_SECTION:activity-->
-
 
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
