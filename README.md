@@ -166,7 +166,7 @@ I am a passionate Frontend Developer with a strong foundation in both frontend t
 
 <p> 
  <i>You can reach out to me via</i> 
-&nbsp;<a href="mailto:contact.parthjohri@gmail.com">
+&nbsp;<a href="mailto:contact.eng.gameliaahmed@gmail.com">
      <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
