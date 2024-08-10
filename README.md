@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Gamila </h2>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-Frontend Developer
+Backend Developer
 <a href="https://myportfolio-smoky-five.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
@@ -34,13 +34,6 @@ I am a passionate Frontend Developer with a strong foundation in both frontend t
      facilitating group success helped learners comprehend programming fundamentals and harness strong communication and leadership abilities.nhanced data 
       accuracy by 30% through seamless integration of smart contracts into the front-end.
   - Worked with various industries on launching efficient Process Systems.
-
-- **FrontEnd Developer** at GrowbyteTech |  2022 - Present
-  - Implemented REST APIs to connect the application to the backend services.
-  - Developed a responsive website tailored to meet client specifications and needs.
-
-- **FrontEnd Developer** at Freelancer (Remote) |  2023 - Present
-  - Implemented responsive design to meet client requirements for the website.
 </details>
   
 <details>
