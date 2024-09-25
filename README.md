@@ -14,7 +14,7 @@ Backend Developer
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Frontend Developer with a strong foundation in both frontend technologies. A Versatile Developer Specializing in <strong>Nextjs, Reactjs Development </strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate Backend Developer with a strong foundation in both backend technologies. A Versatile Developer in <strong>Nodejs, SQL, Python Development </strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 <details>
  <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
@@ -36,15 +36,7 @@ I am a passionate Frontend Developer with a strong foundation in both frontend t
   - Worked with various industries on launching efficient Process Systems.
 </details>
   
-<details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
-
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/binarysolver)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/binarysolver)
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/parthjohri31/practice)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/parthjohri)
-  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/parthjohri31?hr_r=1)
-</details>
+ 
 
 
 <details>
