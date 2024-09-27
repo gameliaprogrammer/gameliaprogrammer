@@ -31,7 +31,7 @@ I am a passionate Backend Developer with a strong foundation in both backend tec
 
 - **Software engineer Developer Intern** at African Leadership X (Alx) (Remote) | Jan 2024 - Jul 2024
   - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.Conducting peer-led study sessions, giving one-on-one support, and 
-     facilitating group success helped learners comprehend programming fundamentals and harness strong communication and leadership abilities.nhanced data 
+     facilitating group success helped learners comprehend programming fundamentals and harness strong communication and leadership abilities.enhanced data 
       accuracy by 30% through seamless integration of smart contracts into the front-end.
   - Worked with various industries on launching efficient Process Systems.
 </details>
@@ -83,9 +83,9 @@ I am a passionate Backend Developer with a strong foundation in both backend tec
 <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
-  #### <a href="https://github.com/gameliaprogrammer/e-commerce-next.js">E-commerce-next.js</a>
+  #### <a href="https://github.com/gameliaprogrammer/Discord-Resources-Bot">Discord Bot</a>
   <span><img src="https://img.shields.io/badge/Next.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></span>  
-  - Deploy Interface website for e-commcrce products. 
+  - Deploy Interface website for Discord Bot products. 
 
   #### <a href="https://github.com/gameliaprogrammer/expensesdollar"> Expenses Dollar</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
